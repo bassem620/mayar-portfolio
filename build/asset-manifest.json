@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mayar-portfolio/static/css/main.8bc5c411.css",
+    "main.js": "/mayar-portfolio/static/js/main.b55bbcf8.js",
+    "static/media/notebook-1.jpg": "/mayar-portfolio/static/media/notebook-1.909a4c17697c449ac264.jpg",
+    "static/media/notebook-2.jpg": "/mayar-portfolio/static/media/notebook-2.0cffeff51db8512b0341.jpg",
+    "static/media/keys.jpg": "/mayar-portfolio/static/media/keys.185e752c43bca1fb136f.jpg",
+    "static/media/logos.png": "/mayar-portfolio/static/media/logos.dddafb3c34db038a0512.png",
+    "static/media/profile.jpg": "/mayar-portfolio/static/media/profile.c667bec0cfa629a8f009.jpg",
+    "static/media/contact.jpg": "/mayar-portfolio/static/media/contact.5733667228c38ad9ed2b.jpg",
+    "static/media/bootstrap-icons.woff?": "/mayar-portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/mayar-portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/flair.JPG": "/mayar-portfolio/static/media/flair.68d8f5489bd5a908ab46.JPG",
+    "static/media/cc-plus.PNG": "/mayar-portfolio/static/media/cc-plus.013034ba88197f50436f.PNG",
+    "static/media/unlock.PNG": "/mayar-portfolio/static/media/unlock.3cacb97fa06c7487bdff.PNG",
+    "index.html": "/mayar-portfolio/index.html",
+    "main.8bc5c411.css.map": "/mayar-portfolio/static/css/main.8bc5c411.css.map",
+    "main.b55bbcf8.js.map": "/mayar-portfolio/static/js/main.b55bbcf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc5c411.css",
+    "static/js/main.b55bbcf8.js"
+  ]
+}
