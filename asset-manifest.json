@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mayar-portfolio/static/css/main.8bc5c411.css",
-    "main.js": "/mayar-portfolio/static/js/main.79784e00.js",
+    "main.js": "/mayar-portfolio/static/js/main.b55bbcf8.js",
     "static/media/notebook-1.jpg": "/mayar-portfolio/static/media/notebook-1.909a4c17697c449ac264.jpg",
     "static/media/notebook-2.jpg": "/mayar-portfolio/static/media/notebook-2.0cffeff51db8512b0341.jpg",
     "static/media/keys.jpg": "/mayar-portfolio/static/media/keys.185e752c43bca1fb136f.jpg",
@@ -15,10 +15,10 @@
     "static/media/unlock.PNG": "/mayar-portfolio/static/media/unlock.3cacb97fa06c7487bdff.PNG",
     "index.html": "/mayar-portfolio/index.html",
     "main.8bc5c411.css.map": "/mayar-portfolio/static/css/main.8bc5c411.css.map",
-    "main.79784e00.js.map": "/mayar-portfolio/static/js/main.79784e00.js.map"
+    "main.b55bbcf8.js.map": "/mayar-portfolio/static/js/main.b55bbcf8.js.map"
   },
   "entrypoints": [
     "static/css/main.8bc5c411.css",
-    "static/js/main.79784e00.js"
+    "static/js/main.b55bbcf8.js"
   ]
 }
