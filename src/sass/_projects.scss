@@ -1,0 +1,95 @@
+.projects {
+  @include section("./assets/notebook-1.jpg");
+
+  @media (min-width: 1201px) {
+    .project-left {
+      position: relative;
+      height: 520px;
+
+      img {
+        position: relative;
+        z-index: 2;
+      }
+
+      .about {
+        max-width: 900px;
+        border-radius: 10px ;
+        background-color: rgba($color: #000000, $alpha: 0.5);
+        padding: 40px 40px 40px 140px;
+        position: relative;
+        top: -200px;
+        right: -180px;
+        z-index: 1;
+      }
+
+      a {
+        color: var(--main);
+      }
+    }
+
+    .project-right {
+      position: relative;
+      height: 520px;
+      direction: rtl;
+
+      img {
+        position: relative;
+        z-index: 2;
+      }
+
+      .about {
+        direction: ltr;
+        border-radius: 10px ;
+        max-width: 900px;
+        background-color: rgba($color: #000000, $alpha: 0.5);
+        padding: 40px 140px 40px 40px;
+        position: relative;
+        top: -200px;
+        left: -180px;
+        z-index: 1;
+      }
+    }
+  }
+
+  a{
+    color: var(--main);
+  }
+
+  @media(max-width: 1200px) {
+
+    .project-left,
+    .project-right {
+      position: relative;
+      margin-top: 30px !important;
+      img{
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        z-index: 2;
+      }
+      .about{
+        background-color: rgba($color: #000000, $alpha: 0.6);
+        border-radius: 8px;
+        padding: 20px;
+        padding-top: 100px ;
+        position: relative;
+        bottom: 70px;
+        z-index: 1;
+      }
+    }
+  }
+
+  .button {
+    padding: 20px;
+
+    .btn {
+      color: var(--main);
+      border: 3px solid var(--main);
+
+      &:hover {
+        background-color: var(--main);
+        color: white;
+      }
+    }
+  }
+}

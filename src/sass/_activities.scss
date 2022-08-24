@@ -1,0 +1,10 @@
+.activities {
+  @include section("./assets/notebook-2.jpg");
+  min-height: 111vh;
+
+  .accordion-button:focus{
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}

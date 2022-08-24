@@ -1,0 +1,39 @@
+.home {
+  @include section("./assets/notebook-1.jpg"); 
+  min-height: 100vh !important;
+  max-height: fit-content !important;
+
+  .text {
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+
+    p {
+      color: white !important;
+    }
+  }
+
+  .image {
+    img {
+      width: 351px;
+      height: 533px;
+    }
+  }
+
+  @media(max-width:767px){
+    .image{
+      width: 300px !important;
+      height: 300px !important;
+      overflow: hidden;
+      border-radius: 50% !important;
+      position: relative;
+      border: 3px solid var(--main);
+
+      img{
+        position: absolute;
+        top: -10px;
+        left: -20px;
+      }
+    }
+  }
+}

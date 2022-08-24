@@ -1,0 +1,22 @@
+@import './sass/mainTitle';
+@import './sass/mixins';
+@import './sass/navbar';
+@import './sass/home';
+@import './sass/activities';
+@import './sass/contact';
+@import './sass/clients';
+@import './sass/skills';
+@import './sass/projects';
+
+// Custom Bootstrap Colors
+$theme-colors: (
+  "main" : #da5fb7,
+  );
+  
+  // Global
+  :root {
+    --main: #d85fb6;
+  }
+  
+// Bootstrap SASS
+@import "../node_modules/bootstrap/scss/bootstrap";
